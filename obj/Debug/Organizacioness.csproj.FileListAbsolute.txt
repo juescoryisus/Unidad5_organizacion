@@ -1,0 +1,10 @@
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\bin\Debug\Organizacioness.exe.config
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\bin\Debug\Organizacioness.exe
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\bin\Debug\Organizacioness.pdb
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\obj\Debug\Organizacioness.csproj.AssemblyReference.cache
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\obj\Debug\Organizacioness.Form1.resources
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\obj\Debug\Organizacioness.Properties.Resources.resources
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\obj\Debug\Organizacioness.csproj.GenerateResource.cache
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\obj\Debug\Organizacioness.csproj.CoreCompileInputs.cache
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\obj\Debug\Organizacioness.exe
+C:\Users\jesus\source\repos\Organizacioness\Organizacioness\obj\Debug\Organizacioness.pdb
